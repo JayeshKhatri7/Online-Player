@@ -1,6 +1,4 @@
 numpy
-pickle
 streamlit
 streamlit-option-menu
-sklearn.svm
 scikit-learn
